@@ -7,3 +7,4 @@ EXAMPLE:
 (generates a file with a C boilerplate or opens any pre-existing file called hello.c)
 ./boilerplate.exe hello .cpp 
 (generates a file with a C++ boilerplate or opens any pre-existing file called hello.cpp)
+PLEASE NOTE: The space between hello and .c is important
